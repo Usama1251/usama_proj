@@ -1,0 +1,37 @@
+{
+    "name": "usama_proj",
+    "version": "1.0.0",
+    "description": "my larvel project",
+    "main": "index.js",
+    "directories": {
+        "test": "tests"
+    },
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build",
+        "preview": "vite preview",
+        "watch": "vite build --watch",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Usama1251/usama_proj.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Usama1251/usama_proj/issues"
+    },
+    "homepage": "https://github.com/Usama1251/usama_proj#readme",
+    "devDependencies": {
+        "@inertiajs/vue3": "^1.0.0",
+        "@tailwindcss/forms": "^0.5.2",
+        "@vitejs/plugin-vue": "^5.0.0",
+        "alpinejs": "^3.4.2",
+        "autoprefixer": "^10.4.2",
+        "laravel-vite-plugin": "^1.1.1",
+        "postcss": "^8.4.31",
+        "tailwindcss": "^3.1.0",
+        "vue": "^3.4.0"
+    }
+}
